@@ -1,0 +1,19 @@
+header {
+	behavior: url(../pie/PIE.htc);
+}
+#nav-button-bg {	
+	height: 105px;
+	top: 565px;	
+    -pie-background: linear-gradient(#fdfdfd 0%,#eaeaea 62.5%,#dedede 62.5%,#b2b2b2 100%); /*PIE*/
+	border-radius: 20px;
+	
+	behavior: url(../pie/PIE.htc);
+}
+
+#content-container {
+	behavior: url(../pie/PIE.htc);
+}
+#banner-content-01 .banner-title {
+	-pie-background: rgba(0, 0, 0, 0.6);
+	behavior: url(../pie/PIE.htc);
+}

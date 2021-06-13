@@ -1,0 +1,217 @@
+<!doctype html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!-- Consider adding a manifest.appcache: h5bp.com/d/Offline -->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+
+  <!-- Use the .htaccess and remove these lines to avoid edge case issues.
+       More info: h5bp.com/i/378 -->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <title>David Newbury - Industrial Product Design Engineer</title>
+  <meta name="description" content="Portfolio and Resume">
+
+  <!-- Mobile viewport optimized: h5bp.com/viewport -->
+  <meta name="viewport" content="width=device-width">
+
+  <!-- Place favicon.ico and apple-touch-icon.png in the root directory: mathiasbynens.be/notes/touch-icons -->
+
+  <link rel="stylesheet" href="css/style.css">
+  <!--[if IE]>
+	<link rel="stylesheet" href="css/ie.css">
+  <![endif]-->
+  <!--[if lte IE 8]>
+	<link rel="stylesheet" href="css/ie8.css">
+  <![endif]-->
+
+  <!-- More ideas for your <head> here: h5bp.com/d/head-Tips -->
+
+  <!-- All JavaScript at the bottom, except this Modernizr build.
+       Modernizr enables HTML5 elements & feature detects for optimal performance.
+       Create your own custom Modernizr build: www.modernizr.com/download/ -->
+  <script src="js/libs/modernizr-2.5.3.min.js"></script>
+</head>
+<body>
+  <!-- Prompt IE 6 users to install Chrome Frame. Remove this if you support IE 6.
+       chromium.org/developers/how-tos/chrome-frame-getting-started -->
+  <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+	<div id="background-container">
+        <header>
+        	<div id="header-content">
+                <h1>David <span>Newbury</span></h1>
+                <br />
+                <h2>Industrial product design engineer</h2>
+            </div>
+        </header>
+        <div id="nav-button-bg">
+        </div>
+        <div id="bannner" class="banner-bg-03">
+        </div>
+        <div role="main">
+        	<div id="content-container">
+                <h3>Work</h3>
+            	<dl>
+                    
+                    <dt>Sorgiovanni Designs</dt>
+                    <dd><strong>u14/142 South Terrace, Fremantle WA 6160</strong></dd>
+                    <dd><strong><a href="http://sorgiovannidesigns.com">http://sorgiovannidesigns.com</a></strong></dd>
+                    <dd class="description">Currently employed designing, modelling and drafting luxury yachts since February 2013.</dd>
+                    
+                    <dt>Curtin University</dt>
+                    <dd><strong>Kent Street, Bentley, WA, 6102</strong></dd>
+                    <dd><strong><a href="http://www.curtin.edu.au">http://www.curtin.edu.au</a></strong></dd>
+                    <dd class="description">Teaching 2nd and 3rd year jewellery, architecture & product design students Solidworks & Rhino CAD & design fundamentals.</dd>
+                
+                    <dt>Box and Dice Pty Ltd</dt>
+                    <dd><strong>9-11 Sheffield St, Kingsgrove, NSW, 2208</strong></dd>
+                    <dd><strong><a href="http://www.boxanddice.com.au">http://www.boxanddice.com.au</a></strong></dd>
+                    <dd class="description">Worked primarily in Autodesk Inventor developing 3D models, drafting control drawings, designing concepts, and producing renderings & prototypes for Box and Dice and their subsidiary company Wovin.</dd>
+                    
+                    <dt>Composite Components</dt>
+                    <dd><strong>9 Morse Road, Bibra Lake, Western Australia, 6163</strong></dd>
+                    <dd><strong><a href="http://www.compositecomponents.com.au">http://www.compositecomponents.com.au</a></strong></dd>
+                    <dd class="description">Employed creating tooling and composite components for the marine, subsea and aerospace industries..</dd>
+                    
+                    <dt>Form Designs Australia</dt>
+                    <dd><strong>Unit 11, 20 Sustainable Ave, Bibra Lake, WA, 6163</strong></dd>
+                    <dd><strong><a href="http://www.formdesigns.com.au">http://www.formdesigns.com.au</a></strong></dd>
+                    <dd class="description">One week of work producing 3D models, 3D renderings and patent images for concept designs in Solidworks.</dd>
+                    
+                    
+                    <dt>Blue Sky Design Group</dt>
+                    <dd><strong>69 Fitzroy Street, Surry Hills, NSW 2010</strong></dd>
+                    <dd><strong><a href="http://www.blueskydesigngroup.com.au">http://www.blueskydesigngroup.com.au</a></strong></dd>
+                    <dd class="description">One week of unpaid work producing concept sketches, 3D models, 2D & 3D renderings for Blue Sky Design and their affiliated company Dosh.</dd>
+                    
+                    
+                    <dt>Workhouse Advertising</dt>
+                    <dd><strong>240-242 Railway Parade, West Leederville WA 6007</strong></dd>
+                    <dd><strong><a href="http://workhouseadvertising.com.au">http://workhouseadvertising.com.au</a></strong></dd>
+                    <dd class="description">Ongoing work as a freelance front end web designer and developer, handing client websites (design, build & maintenance), mobile sites, edm campaigns, banners, etc…</dd>
+
+
+                    <dt>Equilibrium</dt>
+                    <dd><strong>10 Saunders St, East Perth, WA, 6004</strong></dd>
+                    <dd><strong><a href="http://www.equ.com.au">http://www.equ.com.au</a></strong></dd>
+                    <dd class="description">Ongoing work as a freelance front end web designer and developer, handing client websites (design, build & maintenance), mobile sites, edm campaigns, banners, etc…</dd>
+                    
+                    
+                    <dt>iiNet</dt>
+                    <dd><strong>502, Hay St, Subiaco, Western Australia, 600</strong></dd>
+                    <dd><strong><a href="http://www.iinet.net.au">http://www.iinet.net.au</a></strong></dd>
+                    <dd class="description">Worked as a front end web designer and developer for iiNet & Westnet’s websites for five and a half years from September 2005 to February 2011.</dd>
+                    
+                </dl>
+                
+                <h3>Education</h3>
+            	<dl>
+                
+                    <dt>Master of Design</dt>
+                    <dd><strong>Curtin University of Technology</strong></dd>
+                    <dd>Designing cycling & marine products in Solidworks & CATIA while exploring the impact management structures have on the efficiency and reliability of the design process in industrial design engineering and product design industries.</dd>
+                    
+                    <dt>Certificate IV in Training and Assessment</dt>
+                    <dd><strong>Scope Training</strong></dd>
+                    <dd>Instruction and accreditation in the delivery and assessment of vocational education and training.</dd>
+                    
+                    <dt>Certificate IV in Project Management</dt>
+                    <dd><strong>Leader Group</strong></dd>
+                    <dd>Training in effective project management for the Project Management Institute’s CAPM Examination.</dd>
+                    
+                    <dt>Bachelor of Arts</dt>
+                    <dd><strong>Curtin University of Technology</strong></dd>
+                    <dd>Majoring in Multimedia Design with a strong emphasis on 3D CAD, web design and online application development.</dd>
+                    
+                    <dt>International Baccalaureate</dt>
+                    <dd><strong>Kingsley Montessori School</strong></dd>
+	                  <dd>Studying Economics, Physics, Art, Mathematics, English and French. The International Baccalaureate is a global University entrance Diploma.</dd>
+                    
+                </dl>
+                
+                <h3>Awards</h3>
+            	<dl>
+                
+                    <dt>2012 Jury Prize</dt>
+                    <dd><strong>Dassault Systèmes Academy - Project of the Year</strong></dd>
+                    <dd>This award was given in honour of the 28ft sportscruiser boat design, produced as part of my Master of Design at Curtin University.</dd>
+                    
+                    <dt>2012 Site of the day</dt>
+                    <dd><strong>Awwwards – Website Awards</strong></dd>
+                    <dd>Equilibrium was awarded site of the day for Adventure World’s website. I was slightly involved in the primary website build while I designed and developed the mobile version and promotional banners.</dd>
+                    
+                    <dt>2009 Best Internet Service Provider Website</dt>
+                    <dd><strong>Web Marketing Association’s - WebAward</strong></dd>
+                    <dd>iiNet was presented this award for their website redesign on which I was the primary designer and the design lead.   </dd>
+                    
+                </dl>
+        	</div>
+        </div>
+        <footer>
+        	<div id="footer-container">
+        		David Newbury © 2012
+        	</div>
+        </footer>
+        <div id="bannner-container">
+            <div id="banner-content-01">
+                <div class="glassline-logo"></div>
+                <div class="banner-title">
+                	<p class="title">Dassault</p>
+                    <p>Project of the year</p>
+                    <p class="date">2012</p>
+                </div>
+                <div class="image"></div>
+            </div>
+            <div id="banner-content-02">
+                <div class="banner-title">
+                	<p class="title">Front</p>
+                    <p>Derailleur</p>
+                </div>
+                <div class="image"></div>
+            </div>
+            <div id="banner-content-03">
+                <div class="banner-title">
+                	<p class="title">Rear</p>
+                    <p>Derailleur</p>
+                </div>
+                <div class="image"></div>
+            </div>
+        </div>
+        <div id="navigation-container">
+            <a class="left" href="/pdf/David-Roy-Newbury-Resume-0421135135.pdf">Resume<br /><span>(pdf download)</span></a>
+            <a class="right" href="mailto:drnewbury@drnewbury.com">Contact<br /><span>(References & folio)</span></a>                
+        </div>
+        <div id="bg-wacom">
+        </div>
+        <div id="bg-3dx">
+        </div>
+        <div id="bg-pentel">
+        </div>
+	</div>
+
+
+  <!-- JavaScript at the bottom for fast page loading -->
+
+  <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.1.min.js"><\/script>')</script>
+  <script src="js/libs/jquery-ui-1.8.21.custom.min.js"></script>
+
+  <!-- scripts concatenated and minified via build script -->
+  <script src="js/plugins.js"></script>
+  <!--<script src="js/script.js"></script>-->
+  <!-- end scripts -->
+
+  <!-- Asynchronous Google Analytics snippet. Change UA-XXXXX-X to be your site's ID.
+       mathiasbynens.be/notes/async-analytics-snippet -->
+  <script>
+    var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+    g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+    s.parentNode.insertBefore(g,s)}(document,'script'));
+  </script>
+</body>
+</html>

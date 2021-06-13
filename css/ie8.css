@@ -1,0 +1,18 @@
+#banner-content-01 .image {
+	background: none;
+	-ms-filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/banner-design-boat-01.png', sizingMethod='scale')";
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/banner-design-boat-01.png', sizingMethod='scale');
+}
+#banner-content-02 .image {
+	background: none;
+	-ms-filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/banner-design-front-derailleur-01.png', sizingMethod='scale')";
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/banner-design-front-derailleur-01.png', sizingMethod='scale');
+}
+#banner-content-03 .image {
+	background: none;
+	-ms-filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/banner-design-boat-01.png', sizingMethod='scale')";
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../img/banner-design-boat-01.png', sizingMethod='scale');
+}
+#banner-content-01 .glassline-logo {
+	background-image: url(../img/logo-glassline-28.png);	
+}

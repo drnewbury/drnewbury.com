@@ -1,0 +1,64 @@
+$(document).ready(function() {
+
+var i = 1;
+
+	function bannerShift(i) {
+	  $('#banner-content-0' + i + ' .banner-title').animate({
+		left: '-=3000',
+	  }, 1750, 'easeInSine');
+	  
+	  $('#banner-content-0' + i + ' .image').animate({
+		left: '-=3000',
+	  }, 1750, 'easeInCubic', function() {
+		    ticker();
+			setTimeout(function() { 
+						
+					  $('#banner-content-0' + i + ' .banner-title').animate({
+						left: '+3000',
+					  }, 0)
+					  $('#banner-content-0' + i + ' .banner-title').animate({
+						left: '+3000',
+					  }, 0)
+					  
+					  
+			
+					  $('#banner-content-0' + i + ' .banner-title').animate({
+						left: '-=3000',
+					  }, 1750, 'easeInSine');
+					  
+					  $('#banner-content-0' + i + ' .image').animate({
+						left: '-=3000',
+					  }, 1750, 'easeInCubic', function() {
+							ticker();
+							setTimeout(function() { 
+							
+								bannerShift(i); 
+							
+							}, 1000);
+					  });
+		  
+	   
+			
+			}, 1000);
+  	  });
+	  
+
+	  
+	}
+	
+	function ticker() {
+		  if( i <= 2 ) {
+			  i++;
+		  }
+		  else {
+			  i = 1;  
+		  }		  
+	}
+	
+	
+setTimeout(function() { bannerShift(i); }, 1000);
+  
+});
+
+
+
